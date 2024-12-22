@@ -1,0 +1,8 @@
+// Print Hello World (Text) to Screen (Standard Output)
+
+#include <stdio.h>
+int main(){
+    printf("Hello World/n");
+    return 0;
+}
+
