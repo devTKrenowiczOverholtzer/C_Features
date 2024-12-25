@@ -1,0 +1,16 @@
+// Difference between “int main()” and “int main(void)” in C
+// version 1
+int main()
+{
+    /*  */
+    return 0;
+}
+
+// version2
+/*
+int main(void)
+{
+    /*  */
+    return 0;
+}
+*/
